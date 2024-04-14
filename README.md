@@ -1,6 +1,11 @@
 # Music-Recommendation-Bot
  Natural Language Processing Chat Bot that can recommend the user songs depending on the user mood and favourite genres.
 
+<div align="center">
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Music-Recommendation-Bot-Preview.png" align="center" style="width: 80%" />
+</div>
+<br>
+
 ## How to use:
  - Execute all the cells from Music_Recommender_Bot.ipynb
  - Use the last cell to chat with the bot
